@@ -1,4 +1,4 @@
-import { Example } from '@leagueapps/lui';
+import { Example } from '@vtaleagueapps/lui';
 
 export default function Home() {
   return (
