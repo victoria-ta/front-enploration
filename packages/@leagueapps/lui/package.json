@@ -1,0 +1,26 @@
+{
+  "name": "@leagueapps/lui",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/react": "^18.0.21",
+    "react": "^18.2.0",
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vtaleagueapps/front-enploration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vtaleagueapps/front-enploration/issues"
+  },
+  "homepage": "https://github.com/vtaleagueapps/front-enploration#readme"
+}
